@@ -108,7 +108,7 @@
 </div>
 
 <script>
-  const API = "http://localhost:3000/users";
+  const API = "https://node-postgresql-frontend-backend.onrender.com/users";
 
   const messageDiv = document.getElementById("message");
 
