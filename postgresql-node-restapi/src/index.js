@@ -19,6 +19,3 @@ app.listen(PORT);
 // eslint-disable-next-line no-console
 console.log("Server on port", PORT);
 
-app.get("/", (req, res) => {
-  res.send("Backend funcionando 🚀");
-});
